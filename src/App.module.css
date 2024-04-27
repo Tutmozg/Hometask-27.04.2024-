@@ -1,0 +1,11 @@
+.container{
+    width:900px ;
+    height:600px ;
+    background:#aec5d3 ;
+    border-radius:30px ;
+    display:flex ;
+    position: relative;
+    left: 50%;
+    justify-content:center ;
+    
+}

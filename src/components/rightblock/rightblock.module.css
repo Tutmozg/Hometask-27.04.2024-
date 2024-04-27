@@ -1,0 +1,10 @@
+.container{
+    width:500px ;
+    height:450px ;
+    margin-top:130px ;
+    position:absolute ;
+    display:flex ;
+    background:rgb(222, 179, 245) ;
+    border-radius:20px; 
+    right: 0px;
+}
